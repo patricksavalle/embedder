@@ -1,4 +1,4 @@
-# Embedder
+# Media-embedder expressionengine plugin / addon
 
 Inserts embed-code for links wrapped in [[...]].
 
